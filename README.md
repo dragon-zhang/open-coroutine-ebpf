@@ -2,6 +2,8 @@
 
 check article https://blog.csdn.net/dwh0403/article/details/127817919 
 
+check https://github.com/aya-rs/aya/issues/324
+
 ## Prerequisites
 
 1. Install bpf-linker: `cargo install bpf-linker`
