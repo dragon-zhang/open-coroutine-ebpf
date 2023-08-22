@@ -15,6 +15,11 @@ LLVM_SYS_160_PREFIX=/home/parallels/Desktop/projects/llvm-project/build cargo in
 3. build-ebpf and run
 check article https://blog.csdn.net/dwh0403/article/details/127817919
 
+install io_uring syscalls
+```bash
+sudo dnf install liburing-devel
+```
+
 ## Build eBPF
 
 ```bash
